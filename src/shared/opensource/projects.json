@@ -1,33 +1,11 @@
 {
   "data": [
     {
-      "id": "R_kgDOHs3r4Q",
-      "name": "CodeHUB",
-      "createdAt": "2022-07-22T16:07:19Z",
-      "url": "https://github.com/sainikcodes24x7/CodeHUB",
-      "description": null,
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Java",
-          "iconifyClass": "logos-java"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
       "id": "R_kgDOHXq-sQ",
       "name": "ChestXGuardian-",
       "createdAt": "2022-05-20T19:23:58Z",
       "url": "https://github.com/sainikcodes24x7/ChestXGuardian-",
-      "description": null,
+      "description": "This project focuses on utilizing Convolutional Neural Networks (CNNs) to predict whether patients are infected with COVID-19 based on their chest X-ray images. By leveraging deep learning techniques, we aim to contribute to early detection and diagnosis of COVID-19, a critical need during the ongoing pandemic.",
       "isFork": false,
       "languages": [
         {
@@ -45,7 +23,7 @@
       "name": "LadyHUB",
       "createdAt": "2022-11-12T15:35:08Z",
       "url": "https://github.com/sainikcodes24x7/LadyHUB",
-      "description": null,
+      "description": "Our website is designed to be a comprehensive guide, offering a range of features including menstrual cycle tracking, general health check-ups, mental health wellness and fitness blogs, a resourceful recreation page, expert consultations, community forums, and much more.",
       "isFork": false,
       "languages": [
         {
@@ -71,7 +49,7 @@
       "name": "Text-Summarizer",
       "createdAt": "2023-03-31T06:56:22Z",
       "url": "https://github.com/sainikcodes24x7/Text-Summarizer",
-      "description": null,
+      "description": "Text-Summarizer is a powerful tool that leverages PyTorch and Transformer models to automatically generate concise and informative summaries from text. Whether you're dealing with lengthy articles, research papers, or any other form of written content, our tool will help you extract the essence and main points in a fraction of the time.",
       "isFork": false,
       "languages": [
         {
@@ -85,7 +63,7 @@
       "name": "Drunken-Driver-Drowziness-Detecttion-and-Self-Driving-Cars-",
       "createdAt": "2023-08-06T10:40:10Z",
       "url": "https://github.com/sainikcodes24x7/Drunken-Driver-Drowziness-Detecttion-and-Self-Driving-Cars-",
-      "description": null,
+      "description": "The Intelligent Driving Enhancement Suite is a comprehensive set of advanced features designed to enhance driver safety, convenience, and efficiency on the road. Our suite leverages cutting-edge Artificial Intelligence and Machine Learning technologies to address these challenges and provide drivers with a safer and more enjoyable driving experienc",
       "isFork": false,
       "languages": [
         {
@@ -107,9 +85,43 @@
       "name": "Phishing-Website-Detection",
       "createdAt": "2023-08-06T11:17:02Z",
       "url": "https://github.com/sainikcodes24x7/Phishing-Website-Detection",
-      "description": null,
+      "description": "The primary goal of this project is to mitigate the risk of falling victim to phishing attacks by harnessing the power of machine learning and deep neural network algorithms. By training models on a carefully curated dataset containing both phishing and benign URLs, we aim to predict the authenticity of websites, effectively detecting phishing",
       "isFork": false,
       "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHpH27A",
+      "name": "HOSTELio",
+      "createdAt": "2022-07-11T19:21:01Z",
+      "url": "https://github.com/sainikcodes24x7/HOSTELio",
+      "description": "Our project is a smart hostel management system that helps students easily find and book rooms through a block-based preview system, ensures fair allocation for low-income or distant students, and enables smooth admin monitoring. It integrates features like chat-based query resolution, virtual cart for medical/stationery needs etc",
+      "isFork": true,
+      "languages": [
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
         {
           "name": "Jupyter Notebook",
           "iconifyClass": "logos-jupyter"
