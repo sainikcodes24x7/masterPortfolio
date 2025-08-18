@@ -36,9 +36,6 @@
     "lint-staged": "^10.2.11",
     "prettier": "2.0.5"
   },
-  "engines": {
-    "node": "18.x"
-  },
   "browserslist": {
     "production": [
       ">0.2%",
