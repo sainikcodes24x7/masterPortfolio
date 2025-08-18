@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "homepage": "https://sainikcodes24x7.github.io/masterPortfolio",
   "scripts": {
-    "build": "react-scripts build --openssl-legacy-provider build",
+    "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject",
