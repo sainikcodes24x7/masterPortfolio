@@ -2,7 +2,7 @@
   "private": true,
   "name": "masterPortfolio",
   "version": "0.1.0",
-  "homepage": "https://sainikcodes24x7.github.io/masterPortfolio",
+  "homepage": "https://sainikcodes24x7.github.io/",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
